@@ -11,6 +11,11 @@ body {
   color: #5E6472;
   background-color: #aed9e0;
   padding: 10px; /* margen interior*/
+  text-align: center;
+}
+
+.logo-container {
+  display: inline-block; /* Permite que la imagen se centre */
 }
 
 .footer-format {
